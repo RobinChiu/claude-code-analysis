@@ -25,6 +25,7 @@
 [更多詳情](user_messages/README.md)
 
 ### [tools/](tools/)
+![image](https://github.com/RobinChiu/cloude-code-analysis/blob/master/image/tools.png)
 
 包含 AI 助手的工具定義：
 
