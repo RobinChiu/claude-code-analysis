@@ -25,7 +25,7 @@ Contains system reminder templates that are automatically inserted into user mes
 [More details](user_messages/README.md)
 
 ### [tools/](tools/)
-![image](https://github.com/RobinChiu/cloude-code-analysis/blob/master/image/tools.png)
+![image](https://github.com/RobinChiu/claude-code-analysis/blob/main/image/tools.png)
 
 Contains tool definitions for AI assistants:
 
